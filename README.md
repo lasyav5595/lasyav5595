@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Lasya Venigalla, and I am a highly skilled GIS Specialist with a strong background in Remote Sensing. I hold a Ph.D. in Geospatial Information Sciences from The University of Texas at Dallas and a Master's in Geography from the University of Missouri, Columbia. I have completed numerous projects focused on object-based image classification, urban feature extraction, and deep learning techniques, achieving accuracy levels of up to 98%. 
+I am Lasya Venigalla, and I am a highly skilled GIS Specialist with a strong background in Remote Sensing. I hold a Ph.D. in Geospatial Information Sciences from The University of Texas at Dallas and a Master's in Geography from the University of Missouri, Columbia. I have completed numerous projects focused on object-based image classification, urban feature extraction, and deep learning techniques. 
 
 I work as a GIS Analyst at Harris County Public Health, leveraging my expertise in GIS to support public health initiatives. My role involves analyzing spatial data to identify trends and patterns that inform decision-making and policy development. I collaborate closely with public health officials to create comprehensive maps and visualizations that effectively communicate complex data to various stakeholders.
 
